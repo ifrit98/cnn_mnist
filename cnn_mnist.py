@@ -339,8 +339,4 @@ def main():
     
 if __name__ == "__main__":
     main()
-    
-"""
- TODO:
-     - Visualize correctly and incorrectly labeled images during testing
-"""
+   
